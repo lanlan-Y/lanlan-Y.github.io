@@ -7,28 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing an M.S. degree in **Civil Engineering** at **Southeast University**. I received my B.Eng. degree in Civil Engineering from **Hohai University** in 2024.
+I am currently pursuing an M.S. degree at **Southeast University**. I received my B.Eng. degree from **Hohai University** in 2024.
 
-My research interests lie at the intersection of **machine intelligence** and **engineering systems**. My current work focuses on uncertainty-aware inference of latent building attributes from street-view imagery. This research integrates visual representation learning, domain-constrained probabilistic modeling, and reduced-order physical analysis to generate multiple plausible model hypotheses rather than a single deterministic estimate.
-
-Beyond this topic, I am interested in **Multi-Agent Reinforcement Learning** for cooperative decision-making, vision-based damage assessment, and reliable learning under partial observability and noisy feedback.
+My research focuses on reliable perception, probabilistic inference, and intelligent decision-making under incomplete observations. My current work formulates street-view-based building understanding as an uncertainty-aware inverse problem, integrating visual representation learning, structured prior knowledge, and probabilistic hypothesis generation.
 
 ## Research Interests
 
 - Multi-Agent Reinforcement Learning and Cooperative Decision-Making
 - Computer Vision and Visual Representation Learning
-- Vision-Based Damage Assessment
 - Probabilistic Inference and Uncertainty Quantification
-- Robust Learning under Partial Observability
-- Intelligent Modeling of Engineering Systems
+- Vision-Based Damage Assessment
+
+## Research Experience
+
+My research experience primarily involves visual perception and structured attribute inference from street-view imagery. I have developed and evaluated learning pipelines involving perspective rectification, semantic segmentation, multi-task prediction, geometry-aware attribute estimation, and uncertainty calibration.
+
+I have also investigated the influence of auxiliary observations on different visual tasks, with particular attention to task interference, negative transfer, difficult-sample diagnosis, and confidence reliability. These studies motivated a shift from deterministic prediction toward uncertainty-aware representation and parameter-level probabilistic modeling.
+
+My current research further explores knowledge-constrained probabilistic inference. Given incomplete visual evidence, the method generates and ranks multiple plausible model hypotheses instead of returning a single deterministic solution. Simplified physical analysis is introduced as a downstream consistency criterion for evaluating these hypotheses.
+
+## Research Perspective
+
+I am interested in developing reliable and explainable intelligent systems that operate under partial observability, noisy feedback, and limited supervision. My research perspective emphasizes the integration of representation learning, probabilistic modeling, structured knowledge, and model-based verification.
+
+In future work, I intend to explore **Multi-Agent Reinforcement Learning** for cooperative decision-making and distributed coordination, as well as computer vision methods for automated damage detection, condition assessment, and intelligent inspection.
 
 ## Education
 
 - **Southeast University**, Nanjing, China  
-  M.S. in Civil Engineering, 2024 - 2027
+  M.S. Student, 2024 - 2027
 
 - **Hohai University**, Nanjing, China  
-  B.Eng. in Civil Engineering, 2020 - 2024
+  B.Eng., 2020 - 2024
 
 ## Contact
 
