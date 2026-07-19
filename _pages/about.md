@@ -18,11 +18,11 @@ My research centers on two complementary directions: **Multi-Agent Reinforcement
 
 ## Research Focus and Experience
 
-My current research agenda emphasizes multi-agent reinforcement learning for cooperative decision-making and distributed coordination. The primary topics of interest include decentralized policy learning, inter-agent communication, credit assignment, reward design, and robust coordination under partial observability and noisy feedback. I am interested in developing learning mechanisms that improve cooperation efficiency while maintaining stable and interpretable decision behavior.
+In multi-agent reinforcement learning, I am interested in cooperative decision-making under incomplete information and noisy feedback. Topics I follow include reward design, credit assignment, communication between agents, and policy stability.
 
-In computer vision, my research experience covers perspective rectification, semantic segmentation, multi-task learning, geometry-aware attribute inference, difficult-sample analysis, and uncertainty calibration. I have investigated how auxiliary observations affect different visual tasks, with particular attention to task interference, negative transfer, and confidence reliability. Related applications include vision-based damage assessment and structured scene understanding.
+In computer vision, I have worked with perspective correction, semantic segmentation, multi-task learning, geometric parameter estimation, and uncertainty analysis. I am also interested in difficult samples, task interference, and the reliability of model predictions. These topics are related to image understanding, damage detection, and engineering applications.
 
-These two directions share a common objective: enabling intelligent systems to perceive incomplete environments, reason under uncertainty, and make reliable individual or cooperative decisions. My work therefore emphasizes the integration of representation learning, probabilistic reasoning, and structured domain knowledge.
+I hope to combine visual perception, probabilistic reasoning, and decision-making methods to build more reliable intelligent systems for real-world settings.
 
 ## Education
 
