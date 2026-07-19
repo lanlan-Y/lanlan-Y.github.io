@@ -9,28 +9,20 @@ redirect_from:
 
 I am currently pursuing an M.S. degree at **Southeast University**. I received my B.Eng. degree from **Hohai University** in 2024.
 
-My research focuses on reliable perception, probabilistic inference, and intelligent decision-making under incomplete observations. My current work formulates street-view-based building understanding as an uncertainty-aware inverse problem, integrating visual representation learning, structured prior knowledge, and probabilistic hypothesis generation.
+My research centers on two complementary directions: **Multi-Agent Reinforcement Learning for cooperative decision-making** and **Computer Vision**. I am particularly interested in reliable perception and coordination under partial observability, uncertain feedback, and limited information.
 
 ## Research Interests
 
-- Multi-Agent Reinforcement Learning and Cooperative Decision-Making
+- Multi-Agent Reinforcement Learning for Cooperative Decision-Making
 - Computer Vision and Visual Representation Learning
-- Probabilistic Inference and Uncertainty Quantification
-- Vision-Based Damage Assessment
 
-## Research Experience
+## Research Focus and Experience
 
-My research experience primarily involves visual perception and structured attribute inference from street-view imagery. I have developed and evaluated learning pipelines involving perspective rectification, semantic segmentation, multi-task prediction, geometry-aware attribute estimation, and uncertainty calibration.
+My current research agenda emphasizes multi-agent reinforcement learning for cooperative decision-making and distributed coordination. The primary topics of interest include decentralized policy learning, inter-agent communication, credit assignment, reward design, and robust coordination under partial observability and noisy feedback. I am interested in developing learning mechanisms that improve cooperation efficiency while maintaining stable and interpretable decision behavior.
 
-I have also investigated the influence of auxiliary observations on different visual tasks, with particular attention to task interference, negative transfer, difficult-sample diagnosis, and confidence reliability. These studies motivated a shift from deterministic prediction toward uncertainty-aware representation and parameter-level probabilistic modeling.
+In computer vision, my research experience covers perspective rectification, semantic segmentation, multi-task learning, geometry-aware attribute inference, difficult-sample analysis, and uncertainty calibration. I have investigated how auxiliary observations affect different visual tasks, with particular attention to task interference, negative transfer, and confidence reliability. Related applications include vision-based damage assessment and structured scene understanding.
 
-My current research further explores knowledge-constrained probabilistic inference. Given incomplete visual evidence, the method generates and ranks multiple plausible model hypotheses instead of returning a single deterministic solution. Simplified physical analysis is introduced as a downstream consistency criterion for evaluating these hypotheses.
-
-## Research Perspective
-
-I am interested in developing reliable and explainable intelligent systems that operate under partial observability, noisy feedback, and limited supervision. My research perspective emphasizes the integration of representation learning, probabilistic modeling, structured knowledge, and model-based verification.
-
-In future work, I intend to explore **Multi-Agent Reinforcement Learning** for cooperative decision-making and distributed coordination, as well as computer vision methods for automated damage detection, condition assessment, and intelligent inspection.
+These two directions share a common objective: enabling intelligent systems to perceive incomplete environments, reason under uncertainty, and make reliable individual or cooperative decisions. My work therefore emphasizes the integration of representation learning, probabilistic reasoning, and structured domain knowledge.
 
 ## Education
 
